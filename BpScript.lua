@@ -16,7 +16,7 @@ local CasesSection = CasesTab:NewSection("Open Old Cases")
 local InfiniteCreditsSection = InfiniteCreditsTab:NewSection("Infinite Credits - Execute In 4 Round Modes")
 local ExperienceSection = ExperienceTab:NewSection("U Can Use UnTradeBanned And Anti Die Here.")
 local CreditsSection = CreditsTab:NewSection("If U Like The Script Share It And Thanks.")
-local CreditsSection = CreditsTab:NewSection("Credits To Town#0001")
+local CreditsSection = CreditsTab:NewSection("Credits To Town#8891")
 
 
 
@@ -153,9 +153,9 @@ end)
 
 
 
-ExperienceSection:NewButton("AntiKill,AntiAfk,AntiDie", "Its One Of AimBotScripts", function()
-    loadstring(game:GetObjects("rbxassetid://7228968882")[1].Source)()
- end)
+--ExperienceSection:NewButton("AntiKill,AntiAfk,AntiDie", "Its One Of AimBotScripts", function()
+  --  loadstring(game:GetObjects("rbxassetid://7228968882")[1].Source)()
+-- end)
  
 
 
